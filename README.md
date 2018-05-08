@@ -1,2 +1,2 @@
 # Nothing
-app of
+app of nothing
